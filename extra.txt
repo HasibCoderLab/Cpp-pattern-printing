@@ -2,7 +2,7 @@
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
 //               Problem : 👉👉 [4]
-//               Want    : Alphabetsquare
+//               Want    : AlphabetTriangle
 //                        
 // ================================================
 #include <iostream>
