@@ -1,0 +1,14 @@
+// ================================================
+//               Language: C++ / Cpp
+//               Topic   : [pattern-printing]
+//               Problem : 👉👉 [1]
+//               Want    : StarRectangle
+//                        
+// ================================================
+#include <iostream>
+using namespace std;
+int main(){
+    return 0 ;
+}
+
+solve 1st problem of while loop in C++
