@@ -2,7 +2,7 @@
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
 //               Problem : 👉👉 [10]
-//               Want    : NumberTriangleInverted
+//               Want    : OddNumberTriangle
 //                        
 // ================================================
 #include <iostream>
@@ -13,5 +13,3 @@ int main(){
     cin>> n;
     return 0 ;
 }
-
- git commit -m"solve 14th problem of Cpp-pattern-printing in C++"  
