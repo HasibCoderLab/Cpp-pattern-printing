@@ -1,8 +1,8 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
-//               Problem : 👉👉 [10]
-//               Want    : NumberTriangleInverted
+//               Problem : 👉👉 [9]
+//               Want    : StarTriangleInverted
 //                        
 // ================================================
 #include <iostream>
@@ -11,7 +11,12 @@ int main(){
     int n;
     cout<< "Enter number " ;
     cin>> n;
+    for(int i = 1 ; i<=n; i++){
+        for(int j = 1 ; j<= n -i+ 1 ; j++){
+            cout<<" * ";
+
+        }
+        cout<<endl;
+    }
     return 0 ;
 }
-
- git commit -m"solve 1st problem of Cpp-pattern-printing in C++"  
