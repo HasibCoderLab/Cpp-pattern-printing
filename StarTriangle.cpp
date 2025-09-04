@@ -1,8 +1,8 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
-//               Problem : 👉👉 [4]
-//               Want    : Alphabetsquare
+//               Problem : 👉👉 [5]
+//               Want    : StarTriangle
 //                        
 // ================================================
 #include <iostream>
@@ -11,7 +11,11 @@ int main(){
     int n;
     cout<< "Enter number " ;
     cin>> n;
+    for(int i = 1 ; i<=n ;i++){
+        for(int j = 1 ; j<= i; j++){
+            cout<< " * " ;
+        }
+        cout<<endl;
+    }
     return 0 ;
 }
-
-solve 1st problem of Cpp-pattern-printing in C++
