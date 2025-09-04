@@ -1,7 +1,7 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
-//               Problem : 👉👉 [10]
+//               Problem : 👉👉 [12]
 //               Want    : NumberTriangleInverted
 //                        
 // ================================================
