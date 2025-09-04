@@ -17,12 +17,9 @@ int main()
     {
         for (int j = 1; j <= n; j++)
         {
-            if (i == mid || j == mid)
-            {
+            if (i == mid || j == mid) {
                 cout << "*";
-            }
-            else
-            {
+            } else {
                 cout << " ";
             }
         }
