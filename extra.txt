@@ -1,7 +1,7 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
-//               Problem : 👉👉 [10]
+//               Problem : 👉👉 [17]
 //               Want    : NumberTriangleInverted
 //                        
 // ================================================
@@ -14,4 +14,4 @@ int main(){
     return 0 ;
 }
 
- git commit -m"solve 16th problem of Cpp-pattern-printing in C++"  
+ git commit -m"solve 17th problem of Cpp-pattern-printing in C++"  
