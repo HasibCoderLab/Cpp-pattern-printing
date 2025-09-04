@@ -1,7 +1,7 @@
 // ================================================
 //               Language: C++ / Cpp
 //               Topic   : [pattern-printing]
-//               Problem : 👉👉 [8]
+//               Problem : 👉👉 [9]
 //               Want    : AlphabetTriangle
 //                        
 // ================================================
@@ -14,4 +14,4 @@ int main(){
     return 0 ;
 }
 
-solve 1st problem of Cpp-pattern-printing in C++
+ git commit -m"solve 1st problem of Cpp-pattern-printing in C++"  
