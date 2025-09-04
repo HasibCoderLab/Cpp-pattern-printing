@@ -14,4 +14,4 @@ int main(){
     return 0 ;
 }
 
- git commit -m"solve 14th problem of Cpp-pattern-printing in C++"  
+ git commit -m"solve 15th problem of Cpp-pattern-printing in C++"  
